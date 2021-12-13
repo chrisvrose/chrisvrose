@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Find more about me and what I do on [kekvrose.me](https://kekvrose.me)!
+
 <!--
 **chrisvrose/chrisvrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
