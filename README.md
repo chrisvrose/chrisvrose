@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Find more about me and what I do on [kekvrose.me](https://kekvrose.me)!
+If you're bored, check out porcel8, a CHIP-8 emulator ~~of course its written in Rust~~.
+
+More information on some of my works:
+[log.kekvrose.me](https://log.kekvrose.me)
 
 <!--
 **chrisvrose/chrisvrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
