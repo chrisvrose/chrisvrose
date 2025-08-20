@@ -9,4 +9,4 @@ I'm Atreya (aka chrisvrose/kekvrose/...)
 - ⚡ Fun fact: My first "program" was made using GameMaker. [Here it is!](https://www.yygarchive.org/game/198613)
 
 
-Note: I'm transferring some of my repositories into [https://tea.kekvrose.me](Kekwtea). See you there :) !
+Note: I'm transferring some of my repositories into [Kekwtea](https://tea.kekvrose.me). See you there :) !
